@@ -1,0 +1,5 @@
+{
+  "name": "Image Extender AI",
+  "description": "An AI-powered tool to extend images. Upload one or more images, set your desired final dimensions, and let the AI intelligently fill in the expanded areas to create a larger, seamless picture.",
+  "requestFramePermissions": []
+}
